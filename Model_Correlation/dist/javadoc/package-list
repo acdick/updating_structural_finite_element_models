@@ -1,0 +1,15 @@
+de.iabg
+de.iabg.j3d
+de.iabg.j3d.event
+de.iabg.math
+de.iabg.mesh
+de.iabg.mesh.event
+de.iabg.mesh.io
+de.iabg.mesh.plaf
+de.iabg.mode
+de.iabg.mode.event
+de.iabg.mode.io
+de.iabg.mode.plaf
+de.iabg.swing
+de.iabg.swing.event
+de.iabg.swing.filechooser
